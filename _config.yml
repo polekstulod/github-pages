@@ -1,2 +1,7 @@
 remote_theme: oinam/oinam-jekyll
 author: polekstulod
+title: testing 🔬💻🫶
+navbar-links:
+  About: 'about'
+  Blogs: 'blogs'
+  Author's home: 'https://jamespaultulod.tech/'
