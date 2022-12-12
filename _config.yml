@@ -1,6 +1,8 @@
 remote_theme: oinam/oinam-jekyll
 author: polekstulod
 title: testing 🔬💻🫶
+layout:
+  theme: vintage
 navbar-links:
   About: 'about'
   Blogs: 'blogs'
